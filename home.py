@@ -14,7 +14,7 @@ st.set_page_config(page_title="Titanic ML",
 html_temp = """
 		<div style="background-color:#3872ab;padding:1px;border-radius:10px">
         <h3 style="color:white;text-align:center;font-family:arial;">TITANIC MACHINE LEARNING</h3>
-        <h3 style="color:white;text-align:center;font-family:arial;">KELOMPOK 3 - PJJ DAS V 2023 </h3>
+        <h3 style="color:white;text-align:center;font-family:arial;">MUHAMMAD MASMULIANCA ELSI </h3>
         </div>
 		"""
 
